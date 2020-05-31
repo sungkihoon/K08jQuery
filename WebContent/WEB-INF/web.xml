@@ -9,4 +9,15 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
+  <!-- 네이버 검색 API 연동하기 -->
+  <servlet>
+  	<servlet-name>NaverSearchAPI</servlet-name>
+  	<servlet-class>controller.NaverSearchAPI</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>NaverSearchAPI</servlet-name>
+  	<url-pattern>/NaverSearchAPI.do</url-pattern>
+  </servlet-mapping>
+  
 </web-app>

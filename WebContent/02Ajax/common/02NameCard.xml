@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 파일명 : 02NameCard.xml -->
 <명함>
 	<성명 성="Tom" 이름="Cruse">톰크루즈</성명>
 	<직위>영화배우</직위>
@@ -10,5 +9,3 @@
 	<homepage>http://imf-team.com</homepage>
 	<copyright>KOSMO™</copyright>
 </명함>
-
-
