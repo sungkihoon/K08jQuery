@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>타이틀</title>
+<title>JQ01LoadMain.jsp</title>
 <script src="../common/jquery/jquery-3.5.1.js"></script>
 <script type="text/javascript">
 //JS함수 내부에서 jQuery코드를 사용하는것이 가능하다

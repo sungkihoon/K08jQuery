@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>타이틀</title>
+<title>JQ02Get.jsp</title>
 <script src="../common/jquery/jquery-3.5.1.js"></script>
 <script>
 /*

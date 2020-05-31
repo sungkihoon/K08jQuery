@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>타이틀</title>
+<title>JQ07ShoppingCart.jsp</title>
 <link rel="stylesheet" href="../common/bootstrap4.4.1/css/bootstrap.css" />
 <script src="../common/jquery/jquery-3.5.1.js"></script>
 
