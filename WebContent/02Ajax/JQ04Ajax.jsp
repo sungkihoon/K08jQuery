@@ -16,7 +16,7 @@
  	속성
  	url : 요청할 서버의 경로
  	type : 요청시 사용할 전송방식 get, post
- 	dataType : 콜백 데이터의 형식 json, xml, script, text, htnl등
+ 	dataType : 콜백 데이터의 형식 json, xml, script, text, html등
  	success : 요청 성공했을때 콜백 메소드
  	error : 요청에 실패했을때 콜백 메소드
  	contextType : 전송시 사용할 컨텐츠 타입 (get과 post가 다름)
